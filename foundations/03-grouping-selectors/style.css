@@ -1,0 +1,19 @@
+/*CSS Style Sheet*/
+
+.element1,
+.element2 {
+
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.element1 {
+
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+}
+
+.element2 {
+
+    background-color: hsl(60, 100%, 50%);
+}
